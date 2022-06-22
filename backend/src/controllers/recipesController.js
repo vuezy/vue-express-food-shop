@@ -79,7 +79,6 @@ module.exports = {
       })
     }
     catch(err) {
-      console.log(err)
       res.status(500).json({
         success: false,
         error: 'An error has occured, please try again!'

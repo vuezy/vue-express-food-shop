@@ -40,7 +40,6 @@ module.exports = (Schema, model) => {
       return isMatch
     }
     catch(err) {
-      console.log(err)
       return false
     }
   }
