@@ -1,7 +1,7 @@
 # FOOD SHOP
 A simple Vue-Express web game where you can collect ingredients, make dishes, and serve customers.
 
-# Setup for backend
+## Setup for backend
 Go to `backend` directory and run `npm install` to install the dependencies.
 Then, start the MongoDB database using `mongod` with the `--auth` option after setting up the user.
 
@@ -32,7 +32,7 @@ npm run seed
 npm run devStart
 ```
 
-# Setup for frontend
+## Setup for frontend
 Go to `frontend` directory and run `npm install` to install the dependencies.
 
 #### Start the Vue server
