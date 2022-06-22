@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Egg",
+    "imageName": "egg",
+    "price": 20
+  },
+  {
+    "name": "Butter",
+    "imageName": "butter",
+    "price": 100
+  },
+  {
+    "name": "Cinnamon",
+    "imageName": "cinnamon",
+    "price": 350
+  },
+  {
+    "name": "Milk",
+    "imageName": "milk",
+    "price": 100
+  },
+  {
+    "name": "Flour",
+    "imageName": "flour",
+    "price": 40
+  },
+  {
+    "name": "Meat",
+    "imageName": "meat",
+    "price": 1200
+  },
+  {
+    "name": "Cabbage",
+    "imageName": "cabbage",
+    "price": 60
+  },
+  {
+    "name": "Bread",
+    "imageName": "bread",
+    "price": 30
+  },
+  {
+    "name": "Oil",
+    "imageName": "oil",
+    "price": 120
+  },
+  {
+    "name": "Sauce",
+    "imageName": "sauce",
+    "price": 400
+  },
+  {
+    "name": "Rice",
+    "imageName": "rice",
+    "price": 100
+  },
+  {
+    "name": "Noodles",
+    "imageName": "noodles",
+    "price": 90
+  },
+  {
+    "name": "Green Onion",
+    "imageName": "green_onion",
+    "price": 85
+  },
+  {
+    "name": "Black Pepper",
+    "imageName": "black_pepper",
+    "price": 85
+  },
+  {
+    "name": "Carrot",
+    "imageName": "carrot",
+    "price": 60
+  },
+  {
+    "name": "Nori",
+    "imageName": "nori",
+    "price": 100
+  }
+]

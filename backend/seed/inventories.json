@@ -1,0 +1,48 @@
+[
+  {
+    "items": [
+      {
+        "name": "Flour",
+        "imageName": "flour",
+        "itemType": "ingredient",
+        "quantity": 2
+      },
+      {
+        "name": "Meat",
+        "imageName": "meat",
+        "itemType": "ingredient",
+        "quantity": 2
+      },
+      {
+        "name": "Nori",
+        "imageName": "nori",
+        "itemType": "ingredient",
+        "quantity": 3
+      },
+      {
+        "name": "Oil",
+        "imageName": "oil",
+        "itemType": "ingredient",
+        "quantity": 3
+      },
+      {
+        "name": "Rice",
+        "imageName": "rice",
+        "itemType": "ingredient",
+        "quantity": 2
+      },
+      {
+        "name": "Egg",
+        "imageName": "egg",
+        "itemType": "ingredient",
+        "quantity": 3
+      },
+      {
+        "name": "Sauce",
+        "imageName": "sauce",
+        "itemType": "ingredient",
+        "quantity": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "username": "test1",
+    "email": "test1@gmail.com",
+    "password": "password",
+    "money": 1000,
+    "score": 0
+  }
+]

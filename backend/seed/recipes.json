@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Bak Pao",
+    "imageName": "bakpao",
+    "price": 120,
+    "point": 3,
+    "totalTimeTaken": 10000,
+    "ingredients": {
+      "flour": 2,
+      "meat": 1,
+      "oil": 1
+    }
+  },
+  {
+    "name": "Onigiri",
+    "imageName": "onigiri",
+    "price": 100,
+    "point": 2,
+    "totalTimeTaken": 10000,
+    "ingredients": {
+      "rice": 1,
+      "nori": 1,
+      "oil": 1
+    }
+  },
+  {
+    "name": "French Toast",
+    "imageName": "french_toast",
+    "price": 450,
+    "point": 7,
+    "totalTimeTaken": 330000,
+    "ingredients": {
+      "egg": 2,
+      "milk": 1,
+      "cinnamon": 1,
+      "bread": 2,
+      "butter": 1
+    }
+  },
+  {
+    "name": "Soegogi-Jeon",
+    "imageName": "soegogijeon",
+    "price": 400,
+    "point": 5,
+    "totalTimeTaken": 300000,
+    "ingredients": {
+      "meat": 1,
+      "black_pepper": 1,
+      "egg": 3,
+      "oil": 1,
+      "flour": 1
+    }
+  },
+  {
+    "name": "Yakisoba",
+    "imageName": "yakisoba",
+    "price": 1800,
+    "point": 15,
+    "totalTimeTaken": 480000,
+    "ingredients": {
+      "noodles": 1,
+      "cabbage": 3,
+      "carrot": 2,
+      "green_onion": 3,
+      "black_pepper": 1,
+      "oil": 1,
+      "meat": 1,
+      "sauce": 1
+    }
+  },
+  {
+    "name": "Fried Rice",
+    "imageName": "fried_rice",
+    "price": 1500,
+    "point": 10,
+    "totalTimeTaken": 480000,
+    "ingredients": {
+      "rice": 1,
+      "egg": 2,
+      "cabbage": 3,
+      "carrot": 2,
+      "green_onion": 3,
+      "oil": 1,
+      "butter": 1
+    }
+  },
+  {
+    "name": "Pizza",
+    "imageName": "pizza",
+    "price": 2200,
+    "point": 20,
+    "totalTimeTaken": 600000,
+    "ingredients": {
+      "flour": 3,
+      "meat": 2,
+      "black_pepper": 2,
+      "oil": 1,
+      "sauce": 1
+    }
+  }
+]
